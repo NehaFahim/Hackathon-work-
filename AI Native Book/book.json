@@ -1,0 +1,53 @@
+{
+  "title": "AI Native Book: Creating Content with AI Collaboration",
+  "subtitle": "A Comprehensive Guide to AI-Assisted Writing and Publishing",
+  "author": "AI Assistant",
+  "version": "1.0.0",
+  "date": "2026-01-01",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Introduction to AI Native Content Creation",
+      "file": "chapters/01-introduction.md"
+    },
+    {
+      "id": 2,
+      "title": "Understanding AI Native Content Creation",
+      "file": "chapters/02-understanding-ai-native.md"
+    },
+    {
+      "id": 3,
+      "title": "Tools and Techniques for AI-Assisted Writing",
+      "file": "chapters/03-tools-and-techniques.md"
+    },
+    {
+      "id": 4,
+      "title": "Quality Control and Human Oversight",
+      "file": "chapters/04-quality-control.md"
+    },
+    {
+      "id": 5,
+      "title": "Ethics in AI Content Creation",
+      "file": "chapters/05-ethics.md"
+    },
+    {
+      "id": 6,
+      "title": "Future of AI-Native Publishing",
+      "file": "chapters/06-future.md"
+    },
+    {
+      "id": 7,
+      "title": "Conclusion and Next Steps",
+      "file": "chapters/07-conclusion.md"
+    }
+  ],
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+  "tags": [
+    "AI",
+    "Content Creation",
+    "Writing",
+    "Publishing",
+    "Technology",
+    "Collaboration"
+  ]
+}
